@@ -1,10 +1,10 @@
 # Test Repo
 
-Practice Git
+## Practice Git
 
-Add a new feature.
+**Add a new feature**.
 
-Add another feature. This is the second feature.
+_Add another feature. This is the second feature_.
 
 This is the third feature.
 
