@@ -14,4 +14,4 @@ This is all done from with in our terminal be it editing our projects or simply 
 ### What is git and GitHub
 
 Git is the system we use to manages the changes we make.
-[GitHub](http://github.com) is the web base pare of it all where we can host, manage and collaborate on our projects.
+[GitHub](http://github.com) is the web base part of it all where we can host, manage and collaborate on our projects.
